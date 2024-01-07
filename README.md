@@ -213,15 +213,15 @@ Since this was created in just less than a day there are bound to be some trade 
 1. **Clone the repository:**
 
 ```bash
-git clone <https://github.com/PreyankM/FloorPlanManagementSystem.git>
-cd FloorPlanManagementSystem
+git clone <[https://github.com/PreyankM/FloorPlanManagementSystem.git](https://github.com/Aditya-pixel/BusBooking.git)>
+cd BusBooking
 
 ```
 
 1. **Build and Run the Backend:**
 
 ```bash
-cd backend
+cd spring-data-bus-booking
 mvn clean install
 mvn spring-boot:run
 
